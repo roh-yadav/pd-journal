@@ -1,6 +1,1 @@
-# pd-journal## Day 1 — Started My Physical Design journey
-## Day 1 Progress
-- Installed Git and connected to GitHub via SSH
-- Created pd-projects folder structure for picorv32
-- Updated system packages
--Added rbuntu to docker group
+## Day2 -Sun Mar 22 12:31:59 AM CET 2026
