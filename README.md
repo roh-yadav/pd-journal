@@ -2,3 +2,5 @@
 ## Day 1 Progress
 - Installed Git and connected to GitHub via SSH
 - Created pd-projects folder structure for picorv32
+- Updated system packages
+-Added rbuntu to docker group
