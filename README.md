@@ -9,4 +9,4 @@
 ## Day2 
 -Updated system packages
 -Installes Docker Version 28.2.2
-Added rbuntu to docker group
+-Added rbuntu to docker group
