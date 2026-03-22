@@ -10,3 +10,8 @@
 -Updated system packages
 -Installed Docker Version 28.2.2
 -Added rbuntu to docker group
+
+## Day2 (22 March 2026 23:26 CET )
+- Installed SKY130 PDK successfully
+- OpenLane fully ready
+- Read OpenLane README on GitHub
