@@ -1,12 +1,12 @@
 
 # PD Learning Journal
 
-## Day 1
+## Day 1 (21 March 2026)
 -Installed Git and connected to GitHub via SSH
 -Created pd-projects folder structure for picorv32
 -Learned core Linux commands
 
-## Day2 
+## Day2 (22 March 2026)
 -Updated system packages
--Installes Docker Version 28.2.2
+-Installed Docker Version 28.2.2
 -Added rbuntu to docker group
