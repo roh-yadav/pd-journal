@@ -21,13 +21,5 @@
 
 ## Day 3
 
-- Running first chip design flow with OpenLane
 - Time: 22:44 CET - 23 March 2026
-
-## Day 3
-
-- Time: 22:50 CET - 23 March 2026
-- Ran first complete RTL to GDS flow with OpenLane
-- Design: spm on SKY130 PDK
-- 42 steps completed successfully
-- Zero DRC violations, zero timing violations
+- Running first chip design flow with OpenLane
