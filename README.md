@@ -21,5 +21,5 @@
 
 ## Day 3
 
-- Running first chip design flow with OpenLane
 - Time: 22:44 CET - 23 March 2026
+- Running first chip design flow with OpenLane
