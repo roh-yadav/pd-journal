@@ -46,3 +46,12 @@
 - Hold violations: 0
 - Max fanout violations: 20 (fixing with buffer insertion)
 - Time: 14:03 CET - 29 March 2026
+
+## Day 4 - picorv32 complete
+
+- picorv32 RISC-V full RTL to GDS flow completed
+- Fixed floorplan density errors
+- Fixed fanout violations with buffer insertion
+- Critical path slack: 10.34ns MET
+- Zero setup violations, zero hold violations
+- Time: 15:02 CET - 29 March 2026
