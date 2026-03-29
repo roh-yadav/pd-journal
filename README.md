@@ -33,25 +33,10 @@
 
 ## Day 4
 
-- Successfully ran picorv32 RISC-V full RTL to GDS flow
-- Fixed floorplan density errors — learned PD debugging
-- Zero setup violations, zero hold violations
-- 42 steps completed on SKY130 PDK
-- Time: 13:26 CET - 29 March 2026
-
-## Day 4 - Timing Analysis
-
-- Critical path slack: 10.34ns (MET)
-- Setup violations: 0
-- Hold violations: 0
-- Max fanout violations: 20 (fixing with buffer insertion)
-- Time: 14:03 CET - 29 March 2026
-
-## Day 4 - picorv32 complete
-
-- picorv32 RISC-V full RTL to GDS flow completed
-- Fixed floorplan density errors
+- Set up picorv32 RISC-V processor design
+- Debugged and fixed floorplan density errors
 - Fixed fanout violations with buffer insertion
 - Critical path slack: 10.34ns MET
 - Zero setup violations, zero hold violations
+- Full RTL to GDS flow completed on SKY130
 - Time: 15:02 CET - 29 March 2026
