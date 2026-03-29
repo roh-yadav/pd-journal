@@ -30,3 +30,11 @@
 - 42 steps completed successfully
 - Zero DRC violations, zero timing violations
 - Time: 22:44 CET - 23 March 2026
+
+## Day 4
+
+- Successfully ran picorv32 RISC-V full RTL to GDS flow
+- Fixed floorplan density errors — learned PD debugging
+- Zero setup violations, zero hold violations
+- 42 steps completed on SKY130 PDK
+- Time: 13:26 CET - 29 March 2026
