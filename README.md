@@ -40,3 +40,11 @@
 - Zero setup violations, zero hold violations
 - Full RTL to GDS flow completed on SKY130
 - Time: 15:02 CET - 29 March 2026
+
+## Day 5
+
+- Fixed CTS fanout violations with stronger clock buffers
+- Reduced violations from 178 to 13 (93% reduction)
+- Zero DRC violations, zero setup violations, zero hold violations
+- Final picorv32 GDS generated and verified
+- Time: 12:54 CET - 09 April 2026
