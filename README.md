@@ -48,3 +48,9 @@
 - Zero DRC violations, zero setup violations, zero hold violations
 - Final picorv32 GDS generated and verified
 - Time: 12:54 CET - 09 April 2026
+
+## Commands to reopen picorv32 project
+
+- Open layout: klayout ~/OpenLane/designs/picorv32/runs/RUN_2026.04.09_10.24.46/results/final/gds/picorv32.gds
+- Read timing: cat ~/picorv32-sky130/timing_report.rpt | head -50
+- Rerun flow: cd ~/OpenLane && make mount
