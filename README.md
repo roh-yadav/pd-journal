@@ -54,3 +54,10 @@
 - Open layout: klayout ~/OpenLane/designs/picorv32/runs/RUN_2026.04.09_10.24.46/results/final/gds/picorv32.gds
 - Read timing: cat ~/picorv32-sky130/timing_report.rpt | head -50
 - Rerun flow: cd ~/OpenLane && make mount
+
+## Day 6
+
+- Completed picorv32-sky130 GitHub portfolio repo
+- Analyzed chip metrics: 9112 cells, 622mm wire, 19.3mW power
+- Critical path 1.57ns with 20ns clock period
+- Time: 13:28 CET - 18 April 2026
