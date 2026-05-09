@@ -61,3 +61,13 @@
 - Analyzed chip metrics: 9112 cells, 622mm wire, 19.3mW power
 - Critical path 1.57ns with 20ns clock period
 - Time: 13:28 CET - 18 April 2026
+
+## May 9, 2026
+
+- Completed all 4 RTL modules for Photonic Pulse Detector
+- pulse_detector.v — detects rising and falling edges
+- pulse_width_counter.v — measures pulse width in cycles
+- freq_counter.v — counts pulse frequency
+- uart_tx.v — streams data to laptop
+- top.v — complete integrated chip simulation working
+- Time: 13:50 CET - 09 May 2026
